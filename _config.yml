@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Tucci The Programmer
+author: New Github user Tuccim4an
+email: tuccijuancruz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My first encounter with programming was when I modified the files of a video game to have better things at 13 years old
+  and the truth is that I loved it so much that my future career will be related. 
+  At that time I didn't practice coding much, but now that I'm finishing school I'm fully involved, so here I'm going to record my trip.
+  The language I know the most is Python.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Tucciman_code # DO NOT include the @ character, or else the build will fail!
+github_username:  Tuccim4an # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
